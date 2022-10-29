@@ -1,2 +1,1 @@
-# Python
-Python .txt File Analysis
+Esame di Informatica PoliTO - Analisi di un file .txt
